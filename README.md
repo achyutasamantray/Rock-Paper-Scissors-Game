@@ -1,3 +1,5 @@
+Rock-Paper-Scissors Game
+
 A simple, interactive Rock-Paper-Scissors game built using JavaScript. This classic hand game allows you to play against the computer in a fun and easy-to-use web interface.
 
 Features:=
